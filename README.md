@@ -1,4 +1,4 @@
-# Basic-browser
+# Basic-web-browser
 
 Hello!
 
